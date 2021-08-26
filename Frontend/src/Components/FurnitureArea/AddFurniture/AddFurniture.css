@@ -1,0 +1,25 @@
+.AddFurniture >form {
+    width: 300px;
+    margin: auto;
+    text-align: left;
+   
+	
+}
+
+.AddFurniture >form >*{
+    width: 100%;
+    font-size: x-large;
+    box-sizing: border-box;
+    
+}
+
+.AddFurniture input , .AddFurniture select , .AddFurniture label{
+    margin-bottom: 10px;
+    color:darkgreen;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.AddFurniture h2 {
+	
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: navy;
+}

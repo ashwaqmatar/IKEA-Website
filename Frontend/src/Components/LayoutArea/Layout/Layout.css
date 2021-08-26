@@ -1,0 +1,11 @@
+.Layout h1 {
+   
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;	
+    color: blue;
+}
+.Layout a , .Layout span{
+    
+    color:firebrick;
+    font-family:fantasy;
+    font-size: xx-large;
+}

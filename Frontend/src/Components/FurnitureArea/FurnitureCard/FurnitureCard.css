@@ -1,0 +1,14 @@
+.FurnitureCard {
+    width: 250px;
+    height: 100px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-image: linear-gradient(red, white);
+    color:black;
+	display: inline-block;
+    overflow: auto;
+    margin: 20px;
+    padding: 10px;
+    font-size: large;
+
+}
