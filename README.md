@@ -1,3 +1,4 @@
 # IKEA---Full-Stack
-![ikea](https://user-images.githubusercontent.com/33615853/131014583-a0efda25-c7f0-4c09-9787-8f106576fc5e.png)
+![ikea](https://user-images.githubusercontent.com/33615853/131014812-99edd9da-5638-4031-8897-25193179c39e.png)
+
 
